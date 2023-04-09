@@ -42,3 +42,4 @@ function loadQexoFriends(id, url) {
     };
     ajax.send(null);
 }
+loadQexoFriends("qexo-friends", "https://qexo.marzm.cn")
