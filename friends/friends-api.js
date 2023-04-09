@@ -93,3 +93,4 @@ function friend_api() {
     ask()
   }
 }
+qexo_friend_api("friends-api","https://qexo.marzm.cn")
